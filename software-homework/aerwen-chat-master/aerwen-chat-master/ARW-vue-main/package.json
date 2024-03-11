@@ -30,7 +30,7 @@
     "fuse.js": "6.4.6",
     "highlight.js": "^11.5.1",
     "js-cookie": "3.0.1",
-    "jsencrypt": "3.2.1",
+    "jsencrypt": "3.3.2",
     "md-editor-v3": "^1.11.11",
     "nprogress": "0.2.0",
     "pinia": "^2.0.14",
