@@ -34,7 +34,7 @@
 		<PackageReference Include="AspNetCoreRateLimit" Version="4.0.2" />
 		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.6" />
 		<PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.7" />
-		<PackageReference Include="RestSharp" Version="108.0.1" />
+		<PackageReference Include="RestSharp" Version="112.0.0" />
 		<PackageReference Include="SqlSugar.MySqlConnectorCore" Version="5.10.3.1" />
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.1" />
 		<PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="7.0.3" />
