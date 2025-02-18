@@ -38,7 +38,7 @@
 		<PackageReference Include="SqlSugar.MySqlConnectorCore" Version="5.10.3.1" />
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.1" />
 		<PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="7.0.3" />
-		<PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.19" />
+		<PackageReference Include="System.Linq.Dynamic.Core" Version="1.6.0" />
 		<PackageReference Include="UAParser" Version="3.1.47" />
 		<PackageReference Include="IPTools.China" Version="1.6.0" />
 		<PackageReference Include="NLog" Version="5.0.1" />
