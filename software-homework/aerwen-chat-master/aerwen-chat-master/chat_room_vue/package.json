@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@microsoft/signalr": "^6.0.8",
-    "axios": "^0.27.2",
+    "axios": "^1.8.2",
     "element-plus": "^2.2.14",
     "file-saver": "^2.0.5",
     "font-awesome": "^4.7.0",
